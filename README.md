@@ -1,2 +1,1 @@
-# GoLeetCode
-Small go project to practice leetcode problems
+To test CS into the director and typ "Go test"
